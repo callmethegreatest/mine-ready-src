@@ -1,0 +1,29 @@
+{
+  "rolled_at": "2026-10-22T00:49:06.093Z",
+  "palette": "slate-lime",
+  "palette_name": "Slate & Lime",
+  "recipe": "Neutral Mono",
+  "primary": "220 14% 24%",
+  "background": "220 8% 97%",
+  "fonts": "ibmplex-duo",
+  "display": "IBM Plex Serif",
+  "body": "IBM Plex Sans",
+  "hero_composition": "framed-inset",
+  "hero_staging": "ticker-baseline",
+  "header_fg_transparent": "var(--foreground)",
+  "on_media_scope": true,
+  "archetype": "magazine-dense",
+  "surface": "tinted-section-bands",
+  "card_language": "framed-outline",
+  "motion": "calm",
+  "imagery": "clean-studio",
+  "culture": null,
+  "negatives": [
+    "centering every section — pick an axis and commit",
+    "uniform card heights across a grid",
+    "a full-width gradient CTA band"
+  ],
+  "first_build_done": true,
+  "first_build_completed_at": "2026-10-22T00:52:33.545Z",
+  "first_build_recorded_by": "runHost"
+}
